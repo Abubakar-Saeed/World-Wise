@@ -1,0 +1,40 @@
+{
+  "cities": [
+    {
+      "cityName": "Pasrur",
+      "country": "Pakistan",
+      "emoji": "🇵🇰",
+      "date": "2025-02-25T12:06:06.855Z",
+      "notes": "That's place is so beautiful",
+      "position": {
+        "lat": "32.261712364244964",
+        "lng": "74.70153808593751"
+      },
+      "id": 1
+    },
+    {
+      "cityName": "Prienai",
+      "country": "Lithuania",
+      "emoji": "🇱🇹",
+      "date": "2025-02-25T12:06:52.312Z",
+      "notes": "Great Place\n",
+      "position": {
+        "lat": "54.6170945388085",
+        "lng": "24.345703125"
+      },
+      "id": 3
+    },
+    {
+      "cityName": "Talagang",
+      "country": "Pakistan",
+      "emoji": "🇵🇰",
+      "date": "2025-02-25T12:18:33.679Z",
+      "notes": "Nice Place",
+      "position": {
+        "lat": "32.90735942996695",
+        "lng": "72.48779296875001"
+      },
+      "id": 4
+    }
+  ]
+}
