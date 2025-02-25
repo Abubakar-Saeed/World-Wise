@@ -44,7 +44,7 @@ Despite the challenges, it was an **amazing learning experience!**
 
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/your-username/worldwise.git
+   git clone https://github.com/Abubakar-Saeed/worldwise.git
    cd worldwise
 2. **Install Dependencies**
    npm install
